@@ -26,7 +26,7 @@ font-size:3em;}
 }
 
 .u1, .u2, .u3, .u4{
-  background-image: url('https://webattach.mail.yandex.net/message_part_real/?sid=5Ri3efcKWgO8%2ADqdZdrapObvZlWl7YMoGDCxdtaH4LXFzHbqzdXarPAPZuiaPjNI4FVKvs1t3R7M7IHM2k2xvgyzm1iSEO1IYoBlQl%2AkWIuZYG12WRBlMrGvTgPbXspG&thumb=y&no_disposition=y');
+  background-image: url('https://mail.yandex.by/message_part/%D0%A1%D0%BB%D0%BE%D0%B9%204.png?_uid=1130000015502576&name=%D0%A1%D0%BB%D0%BE%D0%B9%204.png&hid=1.10&ids=164099911422315930&no_disposition=y&thumb=y');
   background-repeat: no-repeat;
   width: 190px;
   height:190px;
@@ -58,6 +58,8 @@ font-size:3em;}
   bottom: 190px;
   width: 18px;
   position: absolute;
+background-repeat:repeat-y;
+
 }
  
   .border-left{
