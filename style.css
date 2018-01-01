@@ -26,12 +26,13 @@ font-size:3em;}
 }
 
 .u1, .u2, .u3, .u4{
-  background-image: url('https://mail.yandex.by/message_part/%D0%A1%D0%BB%D0%BE%D0%B9%204.png?_uid=1130000015502576&name=%D0%A1%D0%BB%D0%BE%D0%B9%204.png&hid=1.10&ids=164099911422315930&no_disposition=y&thumb=y');
+  position: absolute;
+  background-image: url("ugol.png");
   background-repeat: no-repeat;
   width: 190px;
   height:190px;
   background-size: contain;
-  position: absolute;
+  
 }
 
 .u2{
@@ -53,12 +54,12 @@ font-size:3em;}
 }
 
 .border-left, .border-right{
-   background-image: url('https://mail.yandex.by/message_part/%D0%A1%D0%BB%D0%BE%D0%B9%205.png?_uid=1130000015502576&name=%D0%A1%D0%BB%D0%BE%D0%B9%205.png&hid=1.11&ids=164099911422315930&no_disposition=y&thumb=y');
+  position: absolute;
+  background-image: url('vert.png');
   top: 190px;
   bottom: 190px;
   width: 18px;
-  position: absolute;
-background-repeat:repeat-y;
+  background-repeat:repeat-y;
 
 }
  
@@ -73,7 +74,7 @@ background-repeat:repeat-y;
   height: 18px;
    left: 190px;
   right: 190px;
-  background-image: url('https://mail.yandex.by/message_part/%D0%A1%D0%BB%D0%BE%D0%B9%207.png?_uid=1130000015502576&name=%D0%A1%D0%BB%D0%BE%D0%B9%207.png&hid=1.13&ids=164099911422315930&no_disposition=y&thumb=y');
+  background-image: url('goriz.png');
   background-repeat: repeat-x;
   background-size: contain;
 }
@@ -92,9 +93,11 @@ background-repeat:repeat-y;
 
 
 .button-block{
+  
+  position: relative;  
   height: 100px;
   width: 100%;
-  position: relative;
+  
 }
 
 #nextQuote{
